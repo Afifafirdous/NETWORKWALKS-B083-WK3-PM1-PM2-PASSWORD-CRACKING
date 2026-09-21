@@ -41,18 +41,17 @@ The password-cracking process was successfully completed for all three provided 
 
 ### Evidence
 
-* [Johnny Configuration](<img width="1363" height="767" alt="01-johnny-configuration" src="https://github.com/user-attachments/assets/18bb60b7-49e6-4b94-850d-5bf819094796" />)
+<img width="1363" height="767" alt="01-johnny-configuration" src="https://github.com/user-attachments/assets/18bb60b7-49e6-4b94-850d-5bf819094796" />
 
-* [PDF1 Hash Extraction](<img width="1335" height="645" alt="02-pdf1-hash-extraction" src="https://github.com/user-attachments/assets/04b76e6b-06c9-48b7-8c8d-b852d7218c94" />
-)
-* [PDF1 Cracked Result](<img width="1365" height="767" alt="03-pdf1-cracked" src="https://github.com/user-attachments/assets/e356e3f4-0020-4aca-afe2-ad1d8c6a9fed" />
-)
-* [PDF2 Cracked Result](<img width="1365" height="767" alt="04-pdf2-cracked" src="https://github.com/user-attachments/assets/614e14ce-0c69-4e5f-a101-1cf19faf1a6e" />
-)
-* [PDF3 Cracked Result](<img width="1365" height="766" alt="05-pdf3-cracked" src="https://github.com/user-attachments/assets/151b8ca4-de7e-4ab1-bfa1-18dae360f5b5" />
-)
-* [Completion / Flag Captured](<img width="423" height="558" alt="03-pdf1-completion png" src="https://github.com/user-attachments/assets/22793c8e-516f-4b6b-82be-8f59d379e7ef" />
-)
+<img width="1335" height="645" alt="02-pdf1-hash-extraction" src="https://github.com/user-attachments/assets/04b76e6b-06c9-48b7-8c8d-b852d7218c94" />
+
+<img width="1365" height="767" alt="03-pdf1-cracked" src="https://github.com/user-attachments/assets/e356e3f4-0020-4aca-afe2-ad1d8c6a9fed" />
+
+<img width="1365" height="767" alt="04-pdf2-cracked" src="https://github.com/user-attachments/assets/614e14ce-0c69-4e5f-a101-1cf19faf1a6e" />
+
+<img width="1365" height="766" alt="05-pdf3-cracked" src="https://github.com/user-attachments/assets/151b8ca4-de7e-4ab1-bfa1-18dae360f5b5" />
+
+<img width="423" height="558" alt="03-pdf1-completion png" src="https://github.com/user-attachments/assets/22793c8e-516f-4b6b-82be-8f59d379e7ef" />
 
 <img width="418" height="576" alt="06-pdf2-completion" src="https://github.com/user-attachments/assets/aee8ff5b-2118-4e6f-8d40-4ebf4e92b24c" />
 
@@ -86,18 +85,17 @@ The password-cracking process was successfully completed for all three provided 
 
 ### Evidence
 
-* [PDF1 Hash Calculator](<img width="704" height="648" alt="01-pdf1-hash-calculator" src="https://github.com/user-attachments/assets/ee362eec-39bf-4a45-952e-e0b531c0c577" />
-)
-* [PDF1 Password Cracker](<img width="464" height="577" alt="02-pdf1-password-cracker" src="https://github.com/user-attachments/assets/2bf3bb7b-076d-4875-94cf-632bb1a9c3a8" />
-)
-* [PDF1 Completion](<img width="423" height="558" alt="03-pdf1-completion png" src="https://github.com/user-attachments/assets/340e3854-c493-45be-b966-85acb07fde8e" />
-)
-* [PDF2 Cracked Result](<img width="477" height="599" alt="04-pdf2-cracked" src="https://github.com/user-attachments/assets/6e9efd9a-be73-4fca-a0dd-7d19ee9fc35d" />
-)
-* [PDF3 Cracked Result](<img width="480" height="580" alt="05-pdf3-cracked" src="https://github.com/user-attachments/assets/9ce8ec84-25f5-49ea-8a63-dac746423355" />
-)
-* [Completion / Flag Captured](<img width="423" height="558" alt="03-pdf1-completion png" src="https://github.com/user-attachments/assets/3f2ee9d3-8775-42e0-9ce4-246de3a3e110" />
-)
+<img width="704" height="648" alt="01-pdf1-hash-calculator" src="https://github.com/user-attachments/assets/ee362eec-39bf-4a45-952e-e0b531c0c577" />
+
+<img width="464" height="577" alt="02-pdf1-password-cracker" src="https://github.com/user-attachments/assets/2bf3bb7b-076d-4875-94cf-632bb1a9c3a8" />
+
+<img width="423" height="558" alt="03-pdf1-completion" src="https://github.com/user-attachments/assets/f1f75464-de49-485c-b586-9bd651d5eb47" />
+
+<img width="477" height="599" alt="04-pdf2-cracked" src="https://github.com/user-attachments/assets/6e9efd9a-be73-4fca-a0dd-7d19ee9fc35d" />
+
+<img width="480" height="580" alt="05-pdf3-cracked" src="https://github.com/user-attachments/assets/9ce8ec84-25f5-49ea-8a63-dac746423355" />
+
+<img width="423" height="558" alt="03-pdf1-completion png" src="https://github.com/user-attachments/assets/3f2ee9d3-8775-42e0-9ce4-246de3a3e110" />
 
 <img width="418" height="576" alt="06-pdf2-completion" src="https://github.com/user-attachments/assets/32f045e1-5e67-48b2-b3b6-026f6c9eb7f8" />
 
