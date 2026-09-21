@@ -95,8 +95,6 @@ The password-cracking process was successfully completed for all three provided 
 
 <img width="480" height="580" alt="05-pdf3-cracked" src="https://github.com/user-attachments/assets/9ce8ec84-25f5-49ea-8a63-dac746423355" />
 
-<img width="423" height="558" alt="03-pdf1-completion png" src="https://github.com/user-attachments/assets/3f2ee9d3-8775-42e0-9ce4-246de3a3e110" />
-
 <img width="418" height="576" alt="06-pdf2-completion" src="https://github.com/user-attachments/assets/32f045e1-5e67-48b2-b3b6-026f6c9eb7f8" />
 
 <img width="418" height="528" alt="07-pdf3-completion" src="https://github.com/user-attachments/assets/2e0c9324-8483-41ec-8de7-4f49d1bfacd5" />
